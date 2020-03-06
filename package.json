@@ -45,7 +45,7 @@
     "babel-register": "^6.0.0",
     "dotenv": "^4.0.0",
     "es6-error": "^4.0.2",
-    "eslint": "^3.6.1",
+    "eslint": "^4.18.2",
     "eslint-config-standard": "^6.2.1",
     "eslint-friendly-formatter": "^2.0.5",
     "eslint-loader": "^1.5.0",
